@@ -1,2 +1,2 @@
 import os
-os.remove("Pathtofile/selfdestruct.py")
+os.remove("selfdestruct.py")
