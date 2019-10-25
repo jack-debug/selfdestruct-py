@@ -1,3 +1,3 @@
 import os
-selfdestruct = os.path.abspath("selfdestruct.py")
-os.remove(selfdestruct)
+file_path = os.path.abspath(__file__)
+os.remove(file_path)
